@@ -28,7 +28,7 @@ module.exports = {
 
 Fill up the 'content' of 'google-signin-client_id' meta data in both '/index.html' and '/html/index.html'
 ```
-<meta name="google-signin-client_id" content="<Google+ Auth client_id">
+<meta name="google-signin-client_id" content="<Google+ Auth client_id>"
 ```
 
 ## Usage
